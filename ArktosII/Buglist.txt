@@ -1,0 +1,17 @@
+BUG LIST
+========
+
+A/A Description                                         Date Added      Status
+------------------------------------------------------------------------------
+1.  Zoom doesn't work                                   01/06/2005      Active
+2.  Selection rectangle continous outside the paper,
+    even on toolbars, titlebar and external windows.    01/06/2005      FIXED
+3.  On new scenario, the paper is not centered, but
+    the user must scroll to find it.                    01/06/2005      Active
+4.  Selection not always works right.                   01/06/2005      FIXED
+5.  The movement of a node is not restricted on the
+    paper but it moves all over the screen (see bug 2)  02/06/2005      Active
+6.  Single click and dragging a node, adds it to the
+    selection.                                          02/06/2005      FIXED
+7.  Moving toolbars/menubars leaves trails all over
+    the screen.                                         03/06/2005      Active

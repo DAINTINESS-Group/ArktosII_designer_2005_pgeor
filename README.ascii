@@ -1,0 +1,11 @@
+This is the Arktos II Designer tool.
+The tool is intended to allow designers to create ETL scenarios and add semantics to them.
+
+The following code is presented on-line to allow the reproduction of results by others. We would like to to clearly state that we simply cannot support any requests for the maintainance of the code, or clarifications, explanations etc. Morover, we do not assume any responsibility for any side effects of the code (although we cannot think of, or have ever encountered, any). You are free to reuse the following code for academic purposes, provided you give the appropriate citation to the following papers: 
+
+P. Vassiliadis, A. Simitsis, P. Georgantas, M. Terrovitis, S. Skiadopoulos. A generic and customizable framework for the design of ETL scenarios. Information Systems, vol.30, no. 7, pp. 492-525, November 2005, Elsevier Science Ltd.
+P. Vassiliadis, A. Simitsis, P. Georgantas, M. Terrovitis.A Framework for the Design of ETL Scenarios. Én 15th Conference on Advanced Information Systems Engineering (CAiSE '03), Klagenfurt/Austria, 16 - 20 June, 2003. 
+
+You may also check the Arktos II page at
+http://www.cs.uoi.gr/~pvassil/projects/arktos_II/index.html
+
